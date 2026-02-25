@@ -40,4 +40,9 @@ while true; do
     echo "Demasiado alto. Intenta de nuevo."
   fi
 done
+Haz un dibujo
+
+echo "  /\\_/\\"
+echo " ( o.o )"
+echo "  > ^ <"
 
