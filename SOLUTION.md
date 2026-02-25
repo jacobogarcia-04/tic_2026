@@ -1,7 +1,7 @@
 [200~# Imprime texto con formato
 printf "Esto es %s con %d formato\n" "un ejemplo" 1
 
-Haz un dibujo
+Haz un dibujo aqui
 
 echo "  /\\_/\\"
 echo " ( o.o )"
